@@ -1,1 +1,1 @@
-﻿Console.WriteLine();
+﻿Console.WriteLine("Contar cuántos dígitos tiene un número.");
